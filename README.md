@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pawiu2379&show_icons=true&locale=en" alt="pawiu2379" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pawiu2379&" alt="pawiu2379" /></p>
-<p></p>
+<p> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawiu2379" alt="pawiu2379" /></a></p>
