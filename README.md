@@ -32,4 +32,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pawiu2379&show_icons=true&locale=en" alt="pawiu2379" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawiu2379&" alt="pawiu2379" /></p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawiu2379" alt="pawiu2379" /></a></p>
+<p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=pawiu2379" alt="pawiu2379" /></a></p>
