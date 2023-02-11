@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ModBot](https://github.com/Pawiu2379/ModBot)
 
-- 🌱 I’m currently learning **Machine learning (python)**
+- 🌱 I’m currently learning **Machine learning (python)** on Udemy
 
 - 📫 How to reach me **pawelkoc681@gmail.com**
 
