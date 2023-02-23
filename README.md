@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/paweł koc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł koc" height="30" width="40" /></a>
 <a href="https://fb.com/paweł koc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paweł koc" height="30" width="40" /></a>
 <a href="https://instagram.com/pawelkoc07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawelkoc07" height="30" width="40" /></a>
-<a href="/https://www.udemy.com/user/pawel-koc-5/" target="blank"><img align="center" src="https://ezbrt4adg6k.exactdn.com/wp-content/uploads/2021/04/unnamed.png" alt="https://www.udemy.com/user/pawel-koc-5/" height="30" width="30" /></a>
+<a align="center" href="/https://www.udemy.com/user/pawel-koc-5/" target="blank"><img align="center" src="https://ezbrt4adg6k.exactdn.com/wp-content/uploads/2021/04/unnamed.png" alt="https://www.udemy.com/user/pawel-koc-5/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
