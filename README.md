@@ -18,8 +18,8 @@
 <a align="center" href="/https://www.udemy.com/user/pawel-koc-5/" target="blank"><img align="center" src="https://ezbrt4adg6k.exactdn.com/wp-content/uploads/2021/04/unnamed.png" alt="https://www.udemy.com/user/pawel-koc-5/" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Languages:</h3>
-<p align="center"> 
+<h3 align="left">Languages:</h3>
+<p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp 
