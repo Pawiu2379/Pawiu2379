@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">Starting developer from Poland</h3>
+<h3 align="center">Starting developer </h3>
 
 
 - 🔭 I’m currently working on [ModBot](https://github.com/Pawiu2379/ModBot)
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **pawelkoc681@gmail.com**
 
-- ⚡ Fun fact **I' m 18 yo**
 
 <h3 align="left">Contact:</h3>
 <p align="left">
